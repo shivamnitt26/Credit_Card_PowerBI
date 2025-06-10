@@ -47,10 +47,7 @@ This report provides a structured analysis of credit card customers, segmented b
 
 ---
 
-## **Notes**  
-- Financial figures are in USD.  
-- Abbreviated labels (e.g., "Busine..." for Businessman) are due to formatting constraints.  
+  
 
----
  
 
